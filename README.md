@@ -8,7 +8,7 @@ Quota is built with SwiftUI, AppKit, Charts, Security, and Foundation. It has no
 
 ### Download the app
 
-The easiest option is the [latest GitHub Release](https://github.com/josephbergvinson/Quota/releases/latest):
+The easiest option is the [latest GitHub Release](https://github.com/josephbergvinson-projects/Quota/releases/latest):
 
 1. Download `Quota-<version>-macOS-universal.zip`.
 2. Expand the ZIP.
@@ -33,7 +33,7 @@ The local provider clients are needed only for their respective subscription acc
 In Terminal, run:
 
 ```sh
-git clone https://github.com/josephbergvinson/Quota.git
+git clone https://github.com/josephbergvinson-projects/Quota.git
 cd Quota
 make install
 ```
